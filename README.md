@@ -2,7 +2,7 @@
 📊 Sales Dashboard Summary
 The Sales Dashboard provides a centralized view of key business metrics, enabling teams to monitor performance, identify trends, and make data-driven decisions.
 
-🔑 Features
+####🔑 Features
 💠Revenue Tracking: Displays total sales, monthly growth, and year-to-date performance.
 
 💠Customer Insights: Shows new vs. returning customers, conversion rates, and retention trends.
@@ -13,14 +13,14 @@ The Sales Dashboard provides a centralized view of key business metrics, enablin
 
 💠Interactive Visuals: Charts, graphs, and filters for dynamic exploration.
 
-🎯 Purpose
+####🎯 Purpose
 💠Simplifies complex data into actionable insights.
 
 💠Helps sales teams and managers track KPIs in real time.
 
 💠Supports strategic planning and forecasting.
 
-⚙️ Tech Stack (example)
+####⚙️ Tech Stack (example)
 💠Frontend: Power BI / Tableau / Dash (Python)
 
 💠Backend: SQL / Python (Pandas, NumPy)
