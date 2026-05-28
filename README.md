@@ -19,8 +19,6 @@ This project is an interactive Sales Dashboard created using Power BI to analyze
 - Data Visualization
 - Excel
 
-## Dashboard Preview
-![Dashboard](dashboard.png)
 
 ## Key Insights
 - Total Sales: $2M
