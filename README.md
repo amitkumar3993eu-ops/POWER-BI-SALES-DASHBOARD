@@ -107,14 +107,6 @@ The goal of this project is to create a user-friendly and interactive dashboard 
 
 ---
 
-## Dashboard Preview
-
-(Add your dashboard screenshot here)
-
-```markdown
-![Sales Dashboard](dashboard.png)
-```
-
 ---
 
 ## Conclusion
