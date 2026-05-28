@@ -1,30 +1,31 @@
 <img width="1478" height="827" alt="image" src="https://github.com/user-attachments/assets/6a8d3b3f-a8ac-48c3-99f5-cf27a9fe4867" />
 
-# POWER-BI-SALES-DASHBOARD
-📊 Sales Dashboard Summary
-The Sales Dashboard provides a centralized view of key business metrics, enabling teams to monitor performance, identify trends, and make data-driven decisions.
+🚀 Excited to share my latest Power BI Sales Dashboard Project!
 
-🔑 Features
-💠Revenue Tracking: Displays total sales, monthly growth, and year-to-date performance.
+In this dashboard, I analyzed sales performance across different:
 
-💠Customer Insights: Shows new vs. returning customers, conversion rates, and retention trends.
+Categories
+Segments
+Regions
+Salespersons
+Years
+Key Insights:
 
-💠Product Performance: Highlights top-selling products, categories, and underperforming items.
+📊 Total Sales: $2M
+📈 Profit: $286K
+📅 Sales growth trend from 2014–2017
+🌍 Region-wise performance analysis
+👥 Segment and salesperson contribution tracking
 
-💠Regional Analysis: Breaks down sales by geography for market comparison.
+Tools Used:
+Power BI
+Data Cleaning
+Data Visualization
+DAX
+Interactive Filters & Charts
 
-💠Interactive Visuals: Charts, graphs, and filters for dynamic exploration.
-
-🎯 Purpose
-💠Simplifies complex data into actionable insights.
-
-💠Helps sales teams and managers track KPIs in real time.
-
-💠Supports strategic planning and forecasting.
-
-⚙️ Tech Stack (example)
-💠Frontend: Power BI / Tableau / Dash (Python)
-
-💠Backend: SQL / Python (Pandas, NumPy)
-
-💠Data Sources: CRM, ERP, or CSV/Excel files
+This project helped me improve my skills in:
+✔ Dashboard design
+✔ Business insights generation
+✔ Data storytelling
+✔ KPI visualization
